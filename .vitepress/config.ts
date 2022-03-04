@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'Panduan untuk tugas akhir',
 
   themeConfig: {
-    repo: 'vuejs/vitepress',
+    repo: 'donnimsifa',
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: false,
@@ -25,23 +25,27 @@ export default defineConfig({
         link: '/',
       },
       {
-        text: 'Pendaftaran TA',
+        text: 'Download File',
+        link: 'https://github.com/donnimsifa/panduanta2021/releases/',
+      },
+      {
+        text: '1. Pendaftaran TA',
         link: '/1pendaftaranta',
       },
       {
-        text: 'Seminar Proposal',
+        text: '2. Seminar Proposal',
         link: '/2semprop',
       },
       {
-        text: 'Seminar Hasil',
+        text: '3. Seminar Hasil',
         link: '/3semhas',
       },
       {
-        text: 'Sidang dan Komprehensif',
+        text: '4. Sidang dan Komprehensif',
         link: '/4sidangkompre',
       },
       {
-        text: 'Yudisium dan Wisuda',
+        text: '5. Yudisium dan Wisuda',
         link: '/5yudisiumwisuda',
       }
   ]
