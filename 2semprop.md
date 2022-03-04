@@ -3,15 +3,17 @@
 PASTIKAN ANDA UPDATE PERKEMBANGAN TUGAS AKHIR DI FISIKA UNSOED SEBELUM MELANJUTKAN
 
 jangan lupa notulensi catet hari dan tanggalnya, trus bimbingannya apa
+
 semprop tidak perlu ada ttd di draftnya sampe dekan, kecuali atas instruksi dospem ya minta ttd berarti
+
 file penilaian, evaluasi, dan berita acara diedit terlebih dahulu, jangan kirim file kosongan ke dosennya
+
 saranku, udah dapet nilai UEPT min 400 juga sebelum semhas, biar ga repot
 
 1. Daftar semprop ke link yg dari pa akmal : bit.ly/SempropFMIPA
 dengan menyertakan unggahan dokumen dan berkas yang terkait. File yang diunggah harus berbentuk pdf dengan nama file mengandung nama mahasiswa, cth:Draft_Akmal
 
-Kalo suruh masukin pasword : ini 
-Pass nya tafmipaunsoed
+Kalo suruh masukin pasword : ini Pass nya tafmipaunsoed
 
 2. Setelah upload proposal konfirmasi ke pa akmal. Biasanya nunggu 1 minggu, langsung keluar jadwal seminarnya. selagi nunggu, mau revisi draft juga gapapa, nyiapin ppt, berkas lain, dll...
 
@@ -24,28 +26,37 @@ Assalamualaikum, selamat pagi pak, saya Donni dari Fisika 2017 mau mengabari har
 Assalamualaikum, selamat pagi bu, saya Donni dari fisika 2017, ingin membuat surat undangan seminar proposal penelitian.
 
 Nama : Donni Maulana Sipa
+
 NIM : K1C017040
 
 Hari : Selasa, 24 November 2020
+
 Pukul : 09.30-10.30
 
 Judul : Sistem Pemantauan Pernapasan Menggunakan Sensor Suhu Inframerah MLX90614
+
 Bidang : Elektronika dan Instrumentasi Fisika Medik
 
 Dosen Pembimbing 1 :
+
 Wihantoro, M.Sc
 
 Dosen Pembimbing 2 :
+
 Hartono, M.Si
 
 Dosen Penelaah :
+
 Sugito, M.Si.
 
 Terimakasih bu 🙏🏻
 
 5. Kirim file via wa/email :
+
 Pembimbing 1 = Draft Proposal, Penilaian, evaluasi, dan berita acara
+
 Pembimbing 2 = Draft Proposal, Penilaian dan evaluasi
+
 Penelaah = Draft Proposal, Penilaian dan evaluasi
 
 6. H-1 atau hari H seminar jangan lupa wa 3 dosen
@@ -56,10 +67,11 @@ Assalamualaikum, Selamat pagi Pak, sehubungan dengan pelaksanaan seminar proposa
 
 8. setelah seminar, lakukan revisi (kalo ada), berikut step step revisi :
 
-jangan lupa notulensi catet hari dan tanggalnya, trus bimbingannya apa
-kalo ga salah batas waktu revisi 2 minggu, tapi gatau juga sih
-
 ## Revisi
+
+jangan lupa notulensi catet hari dan tanggalnya, trus bimbingannya apa
+
+kalo ga salah batas waktu revisi 2 minggu, tapi gatau juga sih
 
 1. Revisi draft skripsi sesuai yg diminta, bimbingan ke dosen dengan ngasih notulen dan jelasin poin poin apa aja yg di revisi
 
