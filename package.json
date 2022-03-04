@@ -1,0 +1,17 @@
+{
+  "name": "panduanta2021",
+  "version": "1.0.0",
+  "description": "viteee",
+  "main": "index.js",
+  "author": "Donni Maulana Sifa <mdoni12@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
