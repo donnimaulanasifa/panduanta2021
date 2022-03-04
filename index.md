@@ -17,3 +17,6 @@ Update terakhir :
 
 
 
+## DOWNLOAD
+
+[Download Berkas Panduan TA Disini](https://github.com/donnimsifa/panduanta2021/releases/download/Rilis/panduanta.zip)

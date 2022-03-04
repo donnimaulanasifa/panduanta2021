@@ -75,3 +75,7 @@ kalo ga salah batas waktu revisi 2 minggu, tapi gatau juga sih
 3. kalo dosen pemb 1 & 2 sudah acc, kirim file ke dosen penelaah, dosen penguji 1, dosen penguji 2, dan jelaskan revisi apa aja
 
 4. lanjut pendaftaran sidang
+ 
+ ## DOWNLOAD
+
+[Download Berkas Panduan TA Disini](https://github.com/donnimsifa/panduanta2021/releases/download/Rilis/panduanta.zip)

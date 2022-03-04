@@ -67,3 +67,7 @@ Assalamualaikum, Selamat pagi Bu, sehubungan dengan pelaksanaan sidang saya yang
 8. pelaksanaan sidang kurang lebih begini, penelaah intro dulu sebentar, trus langsung tanya jawab sama setiap dosen (20 menit). Trus kalo udah semua biasanya mahasiswa left sebentar buat diskusi para dosen (lulus sidang ngga gituu).  Trus kalo dinyatakan lulus ntar mahasiswa join lagi lanjut kompre, sama kyk sidang langsung tanya jawab
 
 9. lanjut daftar yudisium
+ 
+ ## DOWNLOAD
+
+[Download Berkas Panduan TA Disini](https://github.com/donnimsifa/panduanta2021/releases/download/Rilis/panduanta.zip)

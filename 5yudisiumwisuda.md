@@ -80,3 +80,7 @@ PASTIKAN ANDA UPDATE PERKEMBANGAN TUGAS AKHIR DI FISIKA UNSOED SEBELUM MELANJUTK
 Legalisir ijazah bhs. Indonesia + transkrip nilai di bapendik mipa. Bayarnya 2K/lembar, lewat bank. 
 
 Semoga info ini bermanfaat ya teman-teman. Semangat terus ✨
+ 
+ ## DOWNLOAD
+
+[Download Berkas Panduan TA Disini](https://github.com/donnimsifa/panduanta2021/releases/download/Rilis/panduanta.zip)

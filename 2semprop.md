@@ -70,3 +70,6 @@ kalo ga salah batas waktu revisi 2 minggu, tapi gatau juga sih
 4. lanjutkan penelitian, trus ke semhas
 
  
+ ## DOWNLOAD
+
+[Download Berkas Panduan TA Disini](https://github.com/donnimsifa/panduanta2021/releases/download/Rilis/panduanta.zip)

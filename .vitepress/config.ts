@@ -25,10 +25,6 @@ export default defineConfig({
         link: '/',
       },
       {
-        text: 'Download File',
-        link: 'https://github.com/donnimsifa/panduanta2021/releases/',
-      },
-      {
         text: '1. Pendaftaran TA',
         link: '/1pendaftaranta',
       },
